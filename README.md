@@ -1,4 +1,4 @@
-# 📦 **Backend - Biblioteca Virtual**
+# 📚 **Backend - Biblioteca Virtual**
 
 Este é o backend do projeto Biblioteca Virtual. Ele fornece uma API RESTful para gerenciamento de pedidos, produtos, usuários, etc.
 
