@@ -43,7 +43,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.datasource.url=jdbc:mysql://localhost:3306/livrosvirtual
 spring.datasource.username=root
 spring.datasource.password=root
-Spring.jpa.show.-sql: true
+spring.jpa.show.-sql:true
 spring.jpa.properties.hibernate.format_sql=true
 spring.jpa.open-in-view=false
 ```
