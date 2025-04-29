@@ -65,5 +65,5 @@ cd biblioteca_virtual-backend
 POST	  /livrosvirtual	Criar um novo pedido
 GET	    /livrosvirtual	Buscar pedido por ID
 PUT	    /{id}	Atualizar um pedido
-DELETE	/{id}	Remover um pedido por ID
+DELETE	 /{id}	Remover um pedido por ID
 ```
