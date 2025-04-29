@@ -62,8 +62,8 @@ cd biblioteca_virtual-backend
 ## **Método	Rota	Descrição**
 
 ```
-**POST**	/livrosvirtual	Criar um novo pedido
-**GET**	/livrosvirtual	Buscar pedido por ID
-**PUT**	/{id}	Atualizar um pedido
-**DELETE**	/{id}	Remover um pedido por ID
+POST	  /livrosvirtual	Criar um novo pedido
+GET	    /livrosvirtual	Buscar pedido por ID
+PUT	    /{id}	Atualizar um pedido
+DELETE	/{id}	Remover um pedido por ID
 ```
